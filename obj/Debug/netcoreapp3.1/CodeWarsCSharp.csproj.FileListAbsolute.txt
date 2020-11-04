@@ -1,0 +1,13 @@
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\bin\Debug\netcoreapp3.1\CodeWarsCSharp.exe
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\bin\Debug\netcoreapp3.1\CodeWarsCSharp.deps.json
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\bin\Debug\netcoreapp3.1\CodeWarsCSharp.runtimeconfig.json
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\bin\Debug\netcoreapp3.1\CodeWarsCSharp.runtimeconfig.dev.json
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\bin\Debug\netcoreapp3.1\CodeWarsCSharp.dll
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\bin\Debug\netcoreapp3.1\CodeWarsCSharp.pdb
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\obj\Debug\netcoreapp3.1\CodeWarsCSharp.csprojAssemblyReference.cache
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\obj\Debug\netcoreapp3.1\CodeWarsCSharp.AssemblyInfoInputs.cache
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\obj\Debug\netcoreapp3.1\CodeWarsCSharp.AssemblyInfo.cs
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\obj\Debug\netcoreapp3.1\CodeWarsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\obj\Debug\netcoreapp3.1\CodeWarsCSharp.dll
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\obj\Debug\netcoreapp3.1\CodeWarsCSharp.pdb
+C:\Users\kchil\source\repos\CodeWarsCSharp\CodeWarsCSharp\obj\Debug\netcoreapp3.1\CodeWarsCSharp.genruntimeconfig.cache
