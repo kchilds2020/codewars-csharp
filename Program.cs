@@ -6,9 +6,8 @@ namespace CodeWarsCSharp
     {
         static void Main(string[] args)
         {
-            string[] arr = { "Kevin", "Nikki", "Taylor" };
-            string name = Likes.getLikes(arr);
-            Console.WriteLine(name);
+            string numbers = AlphabetPosition.convertString("The sunset sets at twelve o' clock.");
+            Console.WriteLine(numbers);
         }
     }
 }
